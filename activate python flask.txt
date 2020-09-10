@@ -1,0 +1,9 @@
+python -m venv virtualenvi
+
+virtualenvi\Scripts\activate
+
+python -m pip install --upgrade pip
+
+bikin file 'req.txt' dan masukkan library yang mau di install
+
+pip install -r req.txt
